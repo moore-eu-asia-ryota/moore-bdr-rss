@@ -1,1 +1,7 @@
-temp
+<rss version="2.0">
+  <channel>
+    <title>Excel RSS Feed</title>
+    <link>https://YourWebsiteOrPlaceholder.com</link>
+    <description>Feed generated from Excel approvals</description>
+  </channel>
+</rss>
