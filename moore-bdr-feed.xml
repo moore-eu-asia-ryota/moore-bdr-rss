@@ -1,1 +1,37 @@
-
+<rss version="2.0">
+  <channel>
+    <title>Excel RSS Feed</title>
+    <link>https://YourWebsiteOrPlaceholder.com</link>
+    <description>Feed generated from Excel approvals</description>
+<item>
+    <title>How to Assess if You Are a Potential Candidate for a Transfer Pricing Tax Audit? Try This Test!
+</title>
+    <category>Legal</category>
+    <description>This article highlights the importance of transfer pricing documentation for businesses.  A short quiz helps assess the risk of transfer pricing issues.  Two or more "yes" answers indicate a high priority for documentation.  Questions assess profitability (consistent losses or low margins), transparency of related-party transactions (incomplete disclosures), significant transactions with low-tax jurisdictions, and the proportion of payments to related parties (licensing fees, service fees, interest).  High proportions of these payments relative to revenue or profit raise red flags.  Significant differences from industry averages or corporate restructuring also increase risk.  The tax authority uses various information sources to evaluate these risks.  The article concludes by offering assistance from international tax specialists in preparing the necessary documentation.
+</description>
+    <link>Moore BDR</link>
+    <pubDate>
+Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
+    <guid>Moore BDR</guid>
+</item><item>
+    <title>SOHK New Members Welcome Cocktail
+</title>
+    <category>Leagl</category>
+    <description>Last July, we joined the Slovak-Austrian Chamber of Commerce (SOHK).  SOHK hosted a welcoming cocktail reception for new members, providing an opportunity to introduce our company and network.  Werner Braun, a partner from the Vienna office of Moore Stephens City Treuhand (part of Moore Global Limited Network), attended in support.  The event featured a cultural highlight: a superb performance by the Bruno Walter Symphony Orchestra, playing Beethoven and Dvořák. We appreciated this excellent performance. We look forward to future SOHK events, believing they will strengthen relationships and facilitate closer collaboration among chamber members.
+</description>
+    <link>Moore BDR</link>
+    <pubDate>
+Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
+    <guid>Moore BDR</guid>
+</item><item>
+    <title>Value Added Tax – Methodical Instructions from December 2015
+</title>
+    <category>Tax</category>
+    <description>Last month's newsletter outlined significant VAT law changes effective January 1, 2016.  The Slovak Financial Directorate (FR SR) subsequently issued clarifications.  These included guidelines on special VAT application based on payment receipt (§68d), VAT transfer on construction works (§69(12)(j)), reduced VAT rates for certain foods (Annex 7), and classifying construction works within the CPA statistical classification.  Further, the Slovak Financial Administration (FS SR) published guidelines on adjusting deductible VAT for investment assets (§54), VAT security, and VAT application in group registration.  These clarifications aim to provide further detail and guidance on the newly implemented VAT regulations, ensuring compliance and clarity for businesses.
+</description>
+    <link>Moore BDR</link>
+    <pubDate>
+Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
+    <guid>Moore BDR</guid>
+</item>  </channel>
+</rss>
